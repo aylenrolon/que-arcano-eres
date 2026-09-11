@@ -13,153 +13,153 @@ const ARCANOS = {
     energia: "Voluntad y manifestación",
     descripcion:
       "Eres el canal directo entre el cielo y la tierra. El Mago representa el dominio absoluto de tus recursos internos y externos: tienes absolutamente todo lo que necesitas para manifestar tus ideas en el plano físico. Posees una mente brillante, gran capacidad de iniciativa y un magnetismo natural para iniciar proyectos desde cero. Tu mayor desafío y superpoder es alinear tu voluntad con un propósito claro, entendiendo que cada palabra que pronuncias y cada decisión que tomas es una herramienta de creación consciente. No esperas a que las cosas sucedan; las provocas con tu ingenio y tu agilidad mental.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/d/de/RWS_Tarot_01_Magician.jpg",
+    imagen: "/images/mago.jpg",
   },
   2: {
     nombre: "La Sacerdotisa",
     energia: "Intuición y misterio",
     descripcion:
       "Guardiana de los grandes misterios del subconsciente, habitas el espacio sagrado entre lo visible y lo invisible. Posees una intuición prodigiosa y una capacidad innata para percibir la verdad profunda de las situaciones y de las personas mucho antes de que se expongan con palabras. No necesitas hacer ruido para imponerte; tu presencia transmite calma, profundidad y un conocimiento sutil que desconcierta y fascina. Tu mayor fortaleza reside en el silencio, la reflexión y la confianza ciega en tu voz interior. Eres el refugio donde las respuestas se gestan antes de salir a la luz.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/8/88/RWS_Tarot_02_High_Priestess.jpg",
+    imagen: "/images/sacerdotiza.jpg",
   },
   3: {
     nombre: "La Emperatriz",
     energia: "Abundancia, creación y liderazgo fértil.",
     descripcion:
       "Símbolo absoluto de la fertilidad, la naturaleza y la creatividad en su máxima expresión. Tu energía nutre, sostiene y hace florecer todo aquello en lo que pones tu atención y tu amor. Posees un talento innato para dar vida a proyectos, materializar la belleza a tu alrededor y ejercer un liderazgo magnético y generoso. Comprendes el valor del crecimiento constante y disfrutas de los frutos de tu propio esfuerzo con orgullo. Eres la fuerza creadora que armoniza la pasión con el disfrute de la vida.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/d/d2/RWS_Tarot_03_Empress.jpg",
+    imagen: "/images/emperatriz.jpg",
   },
   4: {
     nombre: "El Emperador",
     energia: "Orden, estructura y autoridad consciente.",
     descripcion:
       "Arquitecto de la realidad, representas la capacidad de construir cimientos sólidos y duraderos en un mundo caótico. Tienes una mente estructurada, un gran sentido de la disciplina y la firmeza necesaria para sostener responsabilidades y liderar equipos o proyectos con total solvencia. No te dejas llevar por impulsos pasajeros; analizas el terreno, planificas con estrategia y proteges con lealtad lo que has construido. Tu poder radica en el autocontrol, la estabilidad y la maestría para transformar el desorden en un sistema funcional.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/c/c3/RWS_Tarot_04_Emperor.jpg",
+    imagen: "/images/emperador.jpg",
   },
 5: {
     nombre: "El Sumo Sacerdote",
     energia: "Tradición, mentoría y guia espiritual.",
     descripcion: "El puente sagrado entre lo terrenal y lo divino. Posees una profunda vocación por el conocimiento, el estudio y la transmisión de saberes que aportan estructura y sentido al mundo. Te fascina descifrar sistemas, comprender las reglas profundas que rigen a las comunidades y actuar como un mentor o guía confiable para quienes te rodean. Tu sabiduría no es improvisada; se basa en el respeto por los procesos bien hechos, la ética y la capacidad de integrar la razón con la filosofía de vida.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/8/8d/RWS_Tarot_05_Hierophant.jpg",
+    imagen: "/images/sacerdote.jpg",
   },
 6: {
     nombre: "Los Enamorados",
     energia: "Amor, elección y armonía (Arcano Central)",
     descripcion:
       "El corazón como brújula y la libertad como premisa fundamental. Este arcano rige las grandes decisiones que se toman desde la autenticidad y el sentimiento profundo. Eres una persona sumamente empática, con una gran capacidad para conectar con la sensibilidad ajena, apreciar la belleza y tejer redes de vínculos significativos. Tu aprendizaje constante es elegir desde el amor propio y la coherencia interna, entendiendo que cada vínculo y cada decisión son un reflejo directo de quién eres y de la armonía que buscas construir en tu vida.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_06_Lovers.jpg",
+    imagen: "/images/enamorados.jpg",
 },  
 7: {
     nombre: "El Carro",
     energia: "Voluntad indomable, dirección y avance.",
     descripcion:
       "Impulso puro, determinación y victoria sobre los obstáculos. Representa la capacidad de tomar las riendas de tu destino con valentía y enfocar toda tu energía hacia una meta concreta. No te detienes ante los contratiempos; sabes integrar fuerzas opuestas y canalizarlas para avanzar con seguridad y velocidad hacia el éxito. Eres quien conduce su propia vida sin depender de las circunstancias externas.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/9/9b/RWS_Tarot_07_Chariot.jpg",
+    imagen: "/images/carro.jpg",
   },
   8: {
     nombre: "La Justicia",
     energia: "Ecuanimidad, claridad analítica y ley de causa-efecto.",
     descripcion:
       "La balanza de la verdad y la objetividad. Posees una mente afilada, un gran sentido de la equidad y una habilidad natural para ver las situaciones desde la lógica y la imparcialidad. Comprendes perfectamente que cada acción tiene una consecuencia y buscas siempre la armonía a través de decisiones justas y conscientes. Tu claridad mental te permite cortar con lo innecesario y actuar con absoluta integridad.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/f/f6/RWS_Tarot_08_Justice.jpg",
+    imagen: "/images/justicia.jpg",
   },
   9: {
     nombre: "El Ermitaño",
     energia: "Introspección, sabiduría profunda y búsqueda de la verdad.",
     descripcion:
       "El faro de la luz interior en medio de la oscuridad. Posees una mente analítica y una profunda independencia intelectual que te impulsa a buscar respuestas más allá de lo superficial. No temes a la soledad; por el contrario, la valoras como el espacio sagrado donde recargas tu energía, reflexionas y encuentras tu propia verdad. Eres una guía silenciosa pero firme, capaz de iluminar el camino para otros gracias a la madurez y la lucidez de tus propias experiencias.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/4/4d/RWS_Tarot_09_Hermit.jpg",
+    imagen: "/images/ermitano.jpg",
   },
   10: {
     nombre: "La Rueda de la Fortuna",
     energia: "Ciclos, adaptabilidad y fluidez con el destino.",
     descripcion:
       "El fluir constante de los cambios y la inteligencia para moverte con ellos. Comprendes que la vida se compone de etapas, giros y oportunidades dinámicas que hay que saber aprovechar en el momento justo. Lejos de resistirte a las transformaciones, te adaptas con agilidad y visión estratégica, sabiendo que cada ciclo trae un aprendizaje valioso. Eres el motor que entiende el ritmo del tiempo y fluye con él hacia la evolución.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/3/3c/RWS_Tarot_10_Wheel_of_Fortune.jpg",
+    imagen: "/images/fortuna.jpg",
   },
   11: {
     nombre: "La Fuerza",
     energia: "Coraje, dominio interior y pasión.",
     descripcion:
       "Una fuerza interna inagotable y magnética. No necesitas la violencia ni la imposición para liderar o conseguir lo que deseas; tu poder radica en la templanza, la valentía y la capacidad de dominar tus propios impulsos con elegancia. Combinas una gran pasión con una paciencia férrea, transformando cualquier desafío en una oportunidad para demostrar tu temple y resiliencia.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/e/e0/RWS_Tarot_11_Justice.jpg",
+    imagen: "/images/fuerza.jpg",
   },
   12: {
     nombre: "El Colgado",
     energia: "Perspectiva única, pausa y visión alternativa.",
     descripcion:
       "La capacidad excepcional de ver el mundo desde un ángulo completamente diferente al de los demás. No temes detenerte, hacer una pausa o soltar el control cuando el entorno lo exige, porque sabes que esa distancia te otorga una claridad superior. Aportas soluciones creativas, una empatía profunda y una sabiduría desapegada que rompe con los esquemas rígidos de pensamiento.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/2/2b/RWS_Tarot_12_Hanged_Man.jpg",
+    imagen: "/images/colgado.jpg",
   },
   13: {
     nombre: "La Muerte",
     energia: "Transformación radical y renacimiento.",
     descripcion:
       "No te asustes. El arcano 13 es el arte de la metamorfosis constante. No le temes a los finales porque entiendes que son el requisito indispensable para los nuevos comienzos. Posees una capacidad innata para soltar estructuras obsoletas, limpiar el terreno y reinventarte cuantas veces sea necesario con una madurez impresionante. Eres renovación pura y evolución sin ataduras.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/d/d7/RWS_Tarot_13_Death.jpg",
+    imagen: "/images/muerte.jpg",
   },
   14: {
     nombre: "La Templanza",
     energia: "Alquimia, moderación y paz interior.",
     descripcion:
       "Un alma pacífica y equilibrada que actúa como un puente armonioso entre los opuestos. Tienes el talento natural de mezclar la lógica con la sensibilidad, encontrando siempre el punto exacto de mesura y sanación. Tu presencia transmite calma y estabilidad, y sabes cómo dosificar tu energía con paciencia para que todo madure a su debido tiempo.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/f/f8/RWS_Tarot_14_Temperance.jpg",
+    imagen: "/images/templanza.jpg",
   },
   15: {
     nombre: "El Diablo",
     energia: "Magnetismo, intensidad y poder personal.",
     descripcion:
       "No te asustes. El arcano 15 tiene una presencia magnética, cautivadora e imposible de ignorar. Posees una visión profunda y sin filtros de la naturaleza humana, la ambición y la sombra. Lejos de asustarte ante la intensidad, sabes usar ese poder de atracción para seducir, negociar y conseguir tus metas con una astucia impresionante. Tienes un talento único para despertar el deseo, conectar con el juego del poder y desatar una energía desbordante.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/5/55/RWS_Tarot_15_Devil.jpg",
+    imagen: "/images/diablo.jpg",
   },
   16: {
     nombre: "La Torre",
     energia: "Revelación, ruptura y reconstrucción.",
     descripcion:
       "El rayo que despierta conciencias y destruye lo falso en un instante. No te asustan las crisis ni los cambios abruptos porque sabes que son necesarios para derrumbar estructuras obsoletas que ya no te sirven. Posees una mente revolucionaria capaz de demoler viejos paradigmas para levantar, sobre bases reales y verdaderas, algo completamente nuevo y auténtico. Eres el despertar que no admite medias tintas.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/5/53/RWS_Tarot_16_Tower.jpg",
+    imagen: "/images/torre.jpg",
   },
   17: {
     nombre: "La Estrella",
     energia: "Inspiración, brillo y esperanza.",
     descripcion:
       "Un faro de luz pura que inspira y proyecta confianza hacia el futuro. Tienes una visión sumamente clara, optimista y elevada de lo que está por venir, acompañada de un talento artístico o expresivo que cautiva a los demás. Tu energía fluye limpia y generosa, conectándote con tus sueños más altos y sirviendo de guía para quienes te rodean. Eres la promesa de que lo mejor siempre está por manifestarse.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/d/db/RWS_Tarot_17_Star.jpg",
+    imagen: "/images/estrella.jpg",
   },
   18: {
     nombre: "La Luna",
     energia: "Imaginación, profundidad y mundo inconsciente.",
     descripcion:
       "Un universo interior tan rico como enigmático. Posees una sensibilidad artística desbordante, una intuición capaz de leer entre líneas y una conexión profunda con los sueños, las emociones ocultas y el arte. No todo en ti es lineal; habitas con comodidad las zonas de misterio, la poesía y la reflexión nocturna, comprendiendo los matices más sutiles que escapan a simple vista de los demás.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/7/7f/RWS_Tarot_18_Moon.jpg",
+    imagen: "/images/luna.jpg",
   },
   19: {
     nombre: "El Sol",
     energia: "Éxito, alegría y brillo vital.",
     descripcion:
       "Una energía radiante que ilumina todo a su paso. Posees un optimismo natural, una alegría contagiosa y una capacidad innata para destacar y llevar claridad a cualquier espacio o proyecto que lideres. No temes mostrar tu autenticidad ni brillar con fuerza propia; tu presencia disipa las dudas y atrae el reconocimiento, el éxito y la calidez humana de manera totalmente orgánica.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/1/17/RWS_Tarot_19_Sun.jpg",
+    imagen: "/images/sol.jpg",
   },
   20: {
     nombre: "El Juicio",
     energia: "Despertar, llamado interior y renovación.",
     descripcion:
       "El gran salto de conciencia y la conexión con un propósito mayor. Posees la habilidad de escuchar los llamados importantes de la vida, reevaluar tu pasado con absoluta madurez y renacer hacia un nivel superior de comunicación y claridad. Eres capaz de sacudirte las culpas o los condicionamientos externos para responder, por fin, al llamado de tu verdadera vocación con total honestidad.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/d/dd/RWS_Tarot_20_Judgement.jpg",
+    imagen: "/images/juicio.jpg",
   },
   21: {
     nombre: "El Mundo",
     energia: "Expansión global, integración y plenitud.",
     descripcion:
       "Una mirada amplia, internacional e integradora que no conoce fronteras. Tienes la capacidad de conectar múltiples disciplinas, ver el panorama completo y cerrar grandes ciclos con un éxito rotundo. Te impulsa el deseo de trascender, conectar con horizontes abiertos, aprender de diversas culturas o sistemas y sentir la profunda satisfacción de haber completado una gran etapa para ir por más.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/f/ff/RWS_Tarot_21_World.jpg",
+    imagen: "/images/mundo.jpg",
   },
   22: {
     nombre: "El Loco",
     energia: "Libertad absoluta, audacia y nuevo comienzo.",
     descripcion:
       "El espíritu libre y audaz que no teme dar el salto hacia lo desconocido. Posees una frescura mental única, una apertura total a la aventura y una valentía innata para romper moldes sin mirar atrás. Para ti, la vida es un lienzo en blanco y cada paso es una reinvención. No te atan las expectativas ajenas; caminas liviana, curiosa y lista para explorar cualquier camino por primera vez.",
-    imagen: "https://upload.wikimedia.org/wikipedia/commons/9/90/RWS_Tarot_00_Fool.jpg",
+    imagen: "/images/loco.jpg",
   },
 };
 
