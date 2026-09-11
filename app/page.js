@@ -68,7 +68,7 @@ const ARCANOS = {
     energia: "Introspección, sabiduría profunda y búsqueda de la verdad.",
     descripcion:
       "El faro de la luz interior en medio de la oscuridad. Posees una mente analítica y una profunda independencia intelectual que te impulsa a buscar respuestas más allá de lo superficial. No temes a la soledad; por el contrario, la valoras como el espacio sagrado donde recargas tu energía, reflexionas y encuentras tu propia verdad. Eres una guía silenciosa pero firme, capaz de iluminar el camino para otros gracias a la madurez y la lucidez de tus propias experiencias.",
-    imagen: "/images/ermitano.jpg",
+    imagen: "/images/hermitano.jpg",
   },
   10: {
     nombre: "La Rueda de la Fortuna",
