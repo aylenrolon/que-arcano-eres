@@ -13,7 +13,7 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "¿Qué Arcano eres?",
+  title: "¿Qué Arcano Eres?",
   description: "Descubre el Arcano Mayor que guía tu esencia según tu Matriz del Destino",
 };
 
